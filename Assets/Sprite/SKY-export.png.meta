@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 96ed7b997fc283643a409e532ac1c643
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SKY-export_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 568
+        width: 785
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5a57d9b07195488ffb3c0c7777d0b
+      internalID: 557807582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_1
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 576
+        width: 752
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b728daa0cb786746b4ee28dc63c1c57
+      internalID: 264370300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 341
+        width: 785
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11beb69dde1a1084abde6648af2696fb
+      internalID: 1127088440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 318
+        width: 785
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b97b492eb729468e61db9a6a6caeb
+      internalID: -1244257881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_48
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 163
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46250e1a0a69e0249aee9ad705baa7a6
+      internalID: 2114441721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 785
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e9334a8e702645952c62ed6c2b946
+      internalID: -399341363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_58
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 56
+        width: 786
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e458a4e8b8a3c4490b86b3caa3e5b8
+      internalID: -1813513491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SKY-export_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 152
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001598c48fd02104bbff891fd15aaeee
+      internalID: -961823654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SKY-export_55: 1511182791
+      SKY-export_19: -1893593161
+      SKY-export_6: 1956636559
+      SKY-export_12: -406921096
+      SKY-export_45: -1628258780
+      SKY-export_52: -957002396
+      SKY-export_53: -1939032933
+      SKY-export_68: -365712374
+      SKY-export_9: 1127088440
+      SKY-export_37: 1938021590
+      SKY-export_26: 1953019650
+      SKY-export_74: 1583616843
+      SKY-export_36: 1865466084
+      SKY-export_39: -1965660365
+      SKY-export_2: 511199133
+      SKY-export_28: -451070865
+      SKY-export_30: -243003317
+      SKY-export_56: -998069188
+      SKY-export_50: -399341363
+      SKY-export_66: 977450523
+      SKY-export_62: -961823654
+      SKY-export_14: -1244257881
+      SKY-export_49: 1817650538
+      SKY-export_1: 264370300
+      SKY-export_8: 705429217
+      SKY-export_5: -1153057693
+      SKY-export_11: 788452916
+      SKY-export_23: -861312876
+      SKY-export_21: -1710647266
+      SKY-export_61: -1045592283
+      SKY-export_20: 85604664
+      SKY-export_29: 57676940
+      SKY-export_65: 1511848954
+      SKY-export_46: -1299819647
+      SKY-export_69: 629899884
+      SKY-export_35: -143913586
+      SKY-export_13: 354926086
+      SKY-export_0: 557807582
+      SKY-export_22: -1933970864
+      SKY-export_33: -1780768854
+      SKY-export_54: 399821674
+      SKY-export_10: 753803546
+      SKY-export_70: 1210366376
+      SKY-export_17: -964814064
+      SKY-export_43: -614716690
+      SKY-export_18: 693460819
+      SKY-export_47: -474486259
+      SKY-export_41: 754905413
+      SKY-export_7: 1352286460
+      SKY-export_63: 1842073380
+      SKY-export_31: 866099194
+      SKY-export_48: 2114441721
+      SKY-export_51: 2110809999
+      SKY-export_67: 1313248868
+      SKY-export_42: -1636726698
+      SKY-export_72: 1247453739
+      SKY-export_57: 2104903731
+      SKY-export_73: -1574556165
+      SKY-export_58: -1813513491
+      SKY-export_25: -1520090767
+      SKY-export_64: 57075074
+      SKY-export_3: 970872081
+      SKY-export_38: -1355498277
+      SKY-export_59: 519499187
+      SKY-export_32: 57056357
+      SKY-export_24: -811426965
+      SKY-export_60: 359009820
+      SKY-export_27: 1292691532
+      SKY-export_44: -456906429
+      SKY-export_40: -1306660555
+      SKY-export_34: -1746940560
+      SKY-export_71: -80007861
+      SKY-export_4: -1257097391
+      SKY-export_16: -1090083691
+      SKY-export_15: -2094806364
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
